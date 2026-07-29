@@ -38,7 +38,7 @@ El sistema opera sobre dos fuentes primarias interconectadas por la variable `us
   * La variable `operator_id` presentaba un **15.16% de valores faltantes** (8,172 registros). La validación demostró que el **97.55% de estos nulos correspondían a llamadas entrantes (`in`) no asignadas**. Se decidió de forma estratégica **conservar estos registros**, ya que eliminarlos destruiría la métrica base del volumen de llamadas perdidas e inflaría artificialmente el desempeño del call center.
   * La variable categórica `internal` (0.22% nulos) fue imputada con éxito mediante la moda estadística.
 * **Ingeniería de Características:** Se calculó la métrica crítica de espera:
- $$\text{wait\_time} = \text{total\_call\_duration} - \text{call\_duration}$$
+ $$`wait_time` = `total_call_duration` - `call_duration`$$
 
 ### 📈 Fase 2: Análisis Exploratorio de Datos (EDA)
 * **Tendencias Temporales:** Evaluación de la estabilidad cronológica del tráfico telefónico por tipo de red y dirección.
