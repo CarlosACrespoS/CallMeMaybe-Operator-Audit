@@ -1,0 +1,1093 @@
+﻿operator_id,inbound_calls,outbound_calls,missed_calls,missed_rate,avg_wait,crit_missed_real,crit_wait,crit_outbound,score,is_inefficient_real,classification,wait_category,score_label,performance_level,missed_rate_pct,activity_type
+879896,60.0,1071.0,0.0,0.0,26.91304347826087,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+879898,117.0,7856.0,0.0,0.0,28.53968253968254,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+880020,8.0,46.0,0.0,0.0,7.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+880022,8.0,211.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+880026,25.0,2414.0,0.0,0.0,7.894736842105263,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+880028,70.0,2836.0,0.0,0.0,8.844444444444445,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+880240,0.0,49.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+881278,0.0,20.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+882476,3.0,0.0,0.0,0.0,31.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+882478,3.0,1.0,0.0,0.0,38.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+882680,109.0,0.0,3.0,0.027522935779816515,37.108695652173914,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.75,Solo Entrante
+882684,643.0,721.0,4.0,0.006220839813374806,191.73076923076923,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.62,Entrante y Saliente
+882686,837.0,3094.0,5.0,0.005973715651135006,169.94366197183098,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.6,Entrante y Saliente
+882688,20.0,62.0,0.0,0.0,284.3333333333333,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+882690,176.0,1590.0,2.0,0.011363636363636364,299.8333333333333,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,1.14,Entrante y Saliente
+883018,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+883898,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+883940,8.0,686.0,0.0,0.0,14.285714285714286,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+883942,99.0,2228.0,0.0,0.0,15.571428571428571,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+884294,1.0,0.0,0.0,0.0,6.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+884402,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+884406,0.0,6.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+884408,41.0,25.0,3.0,0.07317073170731707,67.125,True,True,False,2,True,Ineficaz,60-120 s,2,Regular,7.32,Entrante y Saliente
+884412,20.0,843.0,0.0,0.0,45.55555555555556,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+884478,25.0,2336.0,0.0,0.0,24.642857142857142,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+884524,3.0,0.0,0.0,0.0,10.333333333333334,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+884946,12.0,2030.0,0.0,0.0,22.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+885682,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+885876,1152.0,64897.0,21.0,0.018229166666666668,101.94174757281553,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.82,Entrante y Saliente
+885890,1363.0,64653.0,22.0,0.016140865737344093,120.33980582524272,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,1.61,Entrante y Saliente
+886146,1.0,51.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+886674,14.0,0.0,0.0,0.0,17.545454545454547,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+886892,2.0,0.0,0.0,0.0,58.0,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+887276,458.0,963.0,3.0,0.006550218340611353,173.45945945945945,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.66,Entrante y Saliente
+887278,54.0,274.0,0.0,0.0,35.73076923076923,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+887280,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+887282,29.0,2423.0,0.0,0.0,62.904761904761905,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+887416,22.0,0.0,0.0,0.0,26.357142857142858,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+887802,20.0,125.0,0.0,0.0,32.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+887992,0.0,47.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+888406,9.0,6.0,1.0,0.1111111111111111,36.42857142857143,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,11.11,Entrante y Saliente
+888520,6.0,0.0,0.0,0.0,18.8,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+888532,12.0,206.0,2.0,0.16666666666666666,32.111111111111114,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,16.67,Entrante y Saliente
+888534,61.0,337.0,2.0,0.03278688524590164,48.77777777777778,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.28,Entrante y Saliente
+888536,2.0,58.0,0.0,0.0,21.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+888538,1.0,6.0,0.0,0.0,24.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+888540,3.0,17.0,0.0,0.0,19.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+888868,23.0,54.0,1.0,0.043478260869565216,30.533333333333335,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.35,Entrante y Saliente
+889410,464.0,1104.0,0.0,0.0,34.093023255813954,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+889638,4.0,0.0,0.0,0.0,19.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+889640,2.0,0.0,0.0,0.0,13.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+889754,511.0,1342.0,2.0,0.003913894324853229,53.60526315789474,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.39,Entrante y Saliente
+890226,4.0,3.0,0.0,0.0,22.5,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+890228,6.0,103.0,1.0,0.16666666666666666,17.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,16.67,Entrante y Saliente
+890232,0.0,39.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+890234,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+890402,548.0,1380.0,0.0,0.0,76.12,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+890404,580.0,1484.0,2.0,0.0034482758620689655,72.52941176470588,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.34,Entrante y Saliente
+890406,474.0,1347.0,5.0,0.010548523206751054,52.904761904761905,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,1.05,Entrante y Saliente
+890410,16.0,1353.0,0.0,0.0,36.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+890412,29.0,1344.0,0.0,0.0,55.888888888888886,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+890416,0.0,1380.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+890420,0.0,746.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+890422,0.0,487.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+890582,114.0,67.0,1.0,0.008771929824561403,33.29545454545455,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.88,Entrante y Saliente
+890618,78.0,279.0,1.0,0.01282051282051282,2.6176470588235294,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.28,Entrante y Saliente
+891152,0.0,286.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891154,0.0,603.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891156,0.0,24.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891158,0.0,305.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891160,0.0,426.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891162,0.0,114.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891166,0.0,275.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891170,0.0,219.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891192,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+891250,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+891252,0.0,98.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891254,2.0,0.0,0.0,0.0,26.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+891410,742.0,3031.0,2.0,0.0026954177897574125,123.44303797468355,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.27,Entrante y Saliente
+891414,528.0,2846.0,1.0,0.001893939393939394,96.47692307692307,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.19,Entrante y Saliente
+891416,152.0,814.0,0.0,0.0,45.705882352941174,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891646,8.0,0.0,0.0,0.0,23.428571428571427,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+891744,5.0,9.0,0.0,0.0,26.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891746,0.0,37.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891824,12.0,34.0,0.0,0.0,27.857142857142858,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891900,36.0,0.0,0.0,0.0,70.42105263157895,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+891906,77.0,0.0,0.0,0.0,61.90909090909091,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+891908,40.0,11.0,0.0,0.0,14.678571428571429,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891918,7.0,1.0,0.0,0.0,31.857142857142858,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+891946,17.0,35.0,0.0,0.0,24.571428571428573,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891948,1.0,0.0,0.0,0.0,3.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+891970,0.0,21.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+891976,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+891988,441.0,503.0,0.0,0.0,59.98529411764706,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+892028,0.0,1554.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+892530,11.0,10.0,0.0,0.0,45.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+892532,74.0,102.0,0.0,0.0,65.63636363636364,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+892534,35.0,11.0,0.0,0.0,129.44444444444446,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+892536,17.0,17.0,0.0,0.0,51.416666666666664,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+892538,12.0,123.0,0.0,0.0,52.42857142857143,False,False,False,0,False,Eficaz,52.4-60 s,0,Excelente,0.0,Entrante y Saliente
+892798,1.0,36.0,0.0,0.0,43.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+892800,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+893172,43.0,3.0,0.0,0.0,36.851851851851855,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+893400,3.0,3.0,0.0,0.0,23.333333333333332,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+893402,367.0,56.0,3.0,0.008174386920980926,66.07777777777778,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.82,Entrante y Saliente
+893420,209.0,36.0,1.0,0.004784688995215311,82.16981132075472,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.48,Entrante y Saliente
+893674,0.0,2701.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+893700,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+893804,2632.0,3938.0,11.0,0.004179331306990881,116.39655172413794,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.42,Entrante y Saliente
+894120,24.0,0.0,1.0,0.041666666666666664,44.81818181818182,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.17,Solo Entrante
+894224,17.0,33.0,1.0,0.058823529411764705,12.153846153846153,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,5.88,Entrante y Saliente
+894226,0.0,25.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+894230,6.0,15.0,1.0,0.16666666666666666,31.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,16.67,Entrante y Saliente
+894232,5.0,16.0,1.0,0.2,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,20.0,Entrante y Saliente
+894614,8.0,0.0,1.0,0.125,19.166666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,12.5,Solo Entrante
+894656,20.0,3396.0,0.0,0.0,32.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+894662,1.0,48.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+894934,0.0,20.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+895140,4.0,0.0,0.0,0.0,76.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+895170,11.0,0.0,0.0,0.0,16.1,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+895172,9.0,86.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+895266,3.0,1.0,0.0,0.0,12.333333333333334,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+895370,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+895574,99.0,0.0,1.0,0.010101010101010102,30.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.01,Solo Entrante
+895576,80.0,0.0,1.0,0.0125,30.717391304347824,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.25,Solo Entrante
+895578,64.0,0.0,0.0,0.0,23.375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+895598,3.0,2.0,0.0,0.0,9.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+895774,13.0,118.0,0.0,0.0,23.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+895776,12.0,252.0,1.0,0.08333333333333333,17.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,8.33,Entrante y Saliente
+895782,14.0,0.0,0.0,0.0,31.77777777777778,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+895786,46.0,0.0,0.0,0.0,59.8235294117647,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+896008,0.0,202.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896010,10.0,5.0,0.0,0.0,26.571428571428573,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+896012,270.0,0.0,1.0,0.003703703703703704,24.044776119402986,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.37,Solo Entrante
+896014,19.0,9.0,0.0,0.0,18.266666666666666,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896016,83.0,294.0,0.0,0.0,18.705882352941178,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896018,9.0,11.0,0.0,0.0,27.444444444444443,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896020,16.0,0.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+896382,41.0,396.0,0.0,0.0,36.07142857142857,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896384,0.0,30.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896386,0.0,76.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896390,0.0,97.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896428,38.0,221.0,0.0,0.0,26.636363636363637,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896430,1.0,18.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+896536,208.0,0.0,2.0,0.009615384615384616,57.44736842105263,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.96,Solo Entrante
+896538,14.0,0.0,1.0,0.07142857142857142,60.45454545454545,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,7.14,Solo Entrante
+896708,66.0,174.0,0.0,0.0,72.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+897030,6.0,76.0,0.0,0.0,15.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+897872,4.0,53.0,1.0,0.25,20.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,25.0,Entrante y Saliente
+897894,0.0,19.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+898414,32.0,59.0,1.0,0.03125,83.5,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,3.12,Entrante y Saliente
+898422,65.0,36.0,1.0,0.015384615384615385,42.90909090909091,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.54,Entrante y Saliente
+898434,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+898558,23.0,0.0,0.0,0.0,50.38461538461539,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+898560,21.0,0.0,0.0,0.0,67.4,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+898676,3.0,0.0,0.0,0.0,8.333333333333334,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+898892,12.0,90.0,0.0,0.0,19.9,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+898902,0.0,22.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+898906,20.0,127.0,0.0,0.0,46.6,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+898920,13.0,66.0,0.0,0.0,97.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+899076,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+899082,713.0,1659.0,1.0,0.001402524544179523,196.98648648648648,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.14,Entrante y Saliente
+899250,309.0,1670.0,5.0,0.016181229773462782,55.766666666666666,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,1.62,Entrante y Saliente
+899268,32.0,0.0,2.0,0.0625,26.64,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,6.25,Solo Entrante
+899788,0.0,655.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+899790,0.0,731.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+899892,3.0,0.0,0.0,0.0,31.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+899898,2.0,0.0,0.0,0.0,25.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+899900,3.0,0.0,0.0,0.0,62.333333333333336,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+899906,1.0,0.0,0.0,0.0,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+899912,1.0,0.0,0.0,0.0,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+899932,0.0,779.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+899964,0.0,470.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+899968,0.0,407.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+899972,0.0,195.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900180,17.0,1887.0,0.0,0.0,46.333333333333336,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900192,2.0,1.0,0.0,0.0,5.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+900194,61.0,49.0,3.0,0.04918032786885246,32.5609756097561,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.92,Entrante y Saliente
+900352,210.0,348.0,1.0,0.004761904761904762,59.049180327868854,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.48,Entrante y Saliente
+900354,174.0,534.0,3.0,0.017241379310344827,56.58490566037736,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,1.72,Entrante y Saliente
+900458,1.0,28.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900492,18.0,258.0,1.0,0.05555555555555555,16.375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,5.56,Entrante y Saliente
+900592,285.0,121.0,0.0,0.0,44.69767441860465,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900594,35.0,215.0,0.0,0.0,17.857142857142858,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900614,26.0,40.0,0.0,0.0,19.142857142857142,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900742,24.0,18.0,0.0,0.0,31.8,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900746,26.0,51.0,2.0,0.07692307692307693,55.54545454545455,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,7.69,Entrante y Saliente
+900788,131.0,93.0,1.0,0.007633587786259542,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.76,Entrante y Saliente
+900790,44.0,61.0,0.0,0.0,46.375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900792,1.0,8.0,0.0,0.0,34.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+900826,99.0,549.0,0.0,0.0,21.18,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+900892,358.0,1023.0,3.0,0.008379888268156424,26.29032258064516,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.84,Entrante y Saliente
+900894,114.0,228.0,1.0,0.008771929824561403,29.543478260869566,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.88,Entrante y Saliente
+901034,13.0,12.0,0.0,0.0,15.9,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+901038,5.0,33.0,0.0,0.0,28.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+901178,329.0,29.0,0.0,0.0,89.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+901350,111.0,0.0,0.0,0.0,76.72222222222223,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+901492,39.0,3.0,0.0,0.0,31.366666666666667,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+901498,5.0,0.0,0.0,0.0,66.25,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+901584,125.0,189.0,0.0,0.0,14.42,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+901586,44.0,96.0,0.0,0.0,12.214285714285714,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+901588,31.0,60.0,0.0,0.0,8.571428571428571,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+901734,30.0,0.0,0.0,0.0,30.428571428571427,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+901880,2062.0,2591.0,10.0,0.004849660523763337,90.40336134453781,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.48,Entrante y Saliente
+901884,614.0,2232.0,1.0,0.0016286644951140066,81.03921568627452,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.16,Entrante y Saliente
+901886,150.0,1636.0,0.0,0.0,54.339622641509436,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+901894,30.0,0.0,0.0,0.0,82.44444444444444,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+901992,13.0,817.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+901996,3.0,26.0,0.0,0.0,43.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902238,1.0,1.0,0.0,0.0,8.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+902510,137.0,1980.0,2.0,0.014598540145985401,159.32142857142858,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,1.46,Entrante y Saliente
+902532,277.0,939.0,1.0,0.0036101083032490976,121.05405405405405,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.36,Entrante y Saliente
+902608,14.0,219.0,0.0,0.0,23.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902720,105.0,2617.0,0.0,0.0,47.30555555555556,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902742,0.0,1232.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902744,0.0,3457.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902746,0.0,2748.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902748,0.0,2831.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902774,0.0,1126.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902776,0.0,1824.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902778,0.0,1327.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902782,0.0,1473.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+902906,49.0,0.0,0.0,0.0,21.15,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+902910,31.0,0.0,1.0,0.03225806451612903,37.18181818181818,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.23,Solo Entrante
+903254,262.0,1583.0,0.0,0.0,59.093333333333334,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+903292,43.0,303.0,0.0,0.0,67.33333333333333,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+903312,144.0,53.0,2.0,0.013888888888888888,45.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.39,Entrante y Saliente
+903318,314.0,1332.0,3.0,0.009554140127388535,45.44444444444444,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.96,Entrante y Saliente
+903390,9.0,0.0,0.0,0.0,20.285714285714285,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+903512,28.0,0.0,0.0,0.0,70.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+903974,11.0,0.0,0.0,0.0,61.666666666666664,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+903976,5.0,0.0,0.0,0.0,21.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+903978,8.0,10.0,0.0,0.0,38.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+904014,46.0,1429.0,0.0,0.0,41.785714285714285,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+904016,55.0,5120.0,2.0,0.03636363636363636,38.7037037037037,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.64,Entrante y Saliente
+904038,498.0,231.0,2.0,0.004016064257028112,52.45783132530121,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.4,Entrante y Saliente
+904044,117.0,27.0,1.0,0.008547008547008548,47.06521739130435,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.85,Entrante y Saliente
+904058,19.0,0.0,0.0,0.0,18.294117647058822,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+904200,8.0,12.0,0.0,0.0,24.857142857142858,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+904202,9.0,246.0,0.0,0.0,12.857142857142858,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+904204,5.0,59.0,0.0,0.0,40.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+904284,49.0,0.0,0.0,0.0,24.870967741935484,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+904344,7.0,5.0,2.0,0.2857142857142857,31.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,28.57,Entrante y Saliente
+904372,4.0,0.0,0.0,0.0,31.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+905082,4.0,0.0,0.0,0.0,34.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+905104,326.0,210.0,6.0,0.018404907975460124,78.97183098591549,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.84,Entrante y Saliente
+905300,29.0,0.0,2.0,0.06896551724137931,38.23529411764706,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,6.9,Solo Entrante
+905308,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+905430,114.0,835.0,1.0,0.008771929824561403,40.89473684210526,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.88,Entrante y Saliente
+905432,11.0,959.0,0.0,0.0,11.8,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905470,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+905472,2.0,9.0,0.0,0.0,21.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905478,1.0,0.0,0.0,0.0,36.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+905480,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+905538,264.0,3579.0,2.0,0.007575757575757576,77.88333333333334,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.76,Entrante y Saliente
+905542,129.0,2173.0,3.0,0.023255813953488372,41.857142857142854,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.33,Entrante y Saliente
+905564,58.0,758.0,1.0,0.017241379310344827,44.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.72,Entrante y Saliente
+905566,47.0,910.0,2.0,0.0425531914893617,30.653846153846153,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.26,Entrante y Saliente
+905570,0.0,102.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905574,5.0,474.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905840,0.0,7.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+905842,2.0,1251.0,0.0,0.0,115.5,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+905844,18.0,1128.0,0.0,0.0,14.1875,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905862,112.0,1.0,3.0,0.026785714285714284,30.238095238095237,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,2.68,Entrante y Saliente
+905870,151.0,614.0,0.0,0.0,54.6875,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+905930,80.0,407.0,0.0,0.0,13.86111111111111,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905932,39.0,359.0,0.0,0.0,11.62962962962963,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+905934,1.0,21.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+906070,361.0,89.0,2.0,0.00554016620498615,853.3125,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.55,Entrante y Saliente
+906076,24.0,1.0,0.0,0.0,611.5,False,True,True,2,True,Ineficaz,>300 s,2,Regular,0.0,Entrante y Saliente
+906294,322.0,309.0,2.0,0.006211180124223602,28.69811320754717,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.62,Entrante y Saliente
+906296,6.0,230.0,0.0,0.0,32.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+906392,19.0,61.0,2.0,0.10526315789473684,31.875,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,10.53,Entrante y Saliente
+906394,41.0,575.0,0.0,0.0,52.34782608695652,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+906396,128.0,440.0,3.0,0.0234375,114.47058823529412,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,2.34,Entrante y Saliente
+906398,64.0,43.0,0.0,0.0,56.67857142857143,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+906400,143.0,462.0,5.0,0.03496503496503497,92.97727272727273,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,3.5,Entrante y Saliente
+906402,7.0,17.0,0.0,0.0,54.0,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+906404,599.0,673.0,7.0,0.011686143572621035,331.42,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,1.17,Entrante y Saliente
+906406,833.0,1213.0,3.0,0.003601440576230492,440.3333333333333,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.36,Entrante y Saliente
+906408,264.0,106.0,4.0,0.015151515151515152,252.86666666666667,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,1.52,Entrante y Saliente
+906410,244.0,21.0,6.0,0.02459016393442623,175.0,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,2.46,Entrante y Saliente
+906412,26.0,328.0,2.0,0.07692307692307693,26.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,7.69,Entrante y Saliente
+906416,6.0,82.0,0.0,0.0,16.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+906418,5.0,4.0,0.0,0.0,18.25,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+906420,5.0,33.0,0.0,0.0,11.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+906680,215.0,170.0,2.0,0.009302325581395349,124.140625,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.93,Entrante y Saliente
+906866,0.0,655.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907174,10.0,2863.0,0.0,0.0,69.22222222222223,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+907178,5.0,209.0,0.0,0.0,39.333333333333336,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907180,0.0,87.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907182,72.0,267.0,0.0,0.0,20.18421052631579,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907224,51.0,336.0,0.0,0.0,49.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907440,6.0,191.0,0.0,0.0,23.833333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907442,0.0,93.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907502,263.0,0.0,2.0,0.0076045627376425855,81.03076923076924,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.76,Solo Entrante
+907504,5.0,25.0,0.0,0.0,27.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907618,1.0,0.0,0.0,0.0,35.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+907952,51.0,194.0,2.0,0.0392156862745098,29.083333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.92,Entrante y Saliente
+907964,19.0,62.0,0.0,0.0,22.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907970,18.0,172.0,0.0,0.0,19.6875,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907972,6.0,8.0,0.0,0.0,15.6,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+907974,3.0,0.0,0.0,0.0,9.666666666666666,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+907982,76.0,89.0,1.0,0.013157894736842105,41.64102564102564,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.32,Entrante y Saliente
+907986,1.0,501.0,0.0,0.0,20.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907994,42.0,122.0,0.0,0.0,26.551724137931036,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+907998,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+908002,8.0,16.0,0.0,0.0,28.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+908078,46.0,69.0,0.0,0.0,23.78787878787879,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+908080,7.0,1.0,0.0,0.0,17.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+908082,29.0,20.0,0.0,0.0,15.1,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+908098,9.0,0.0,0.0,0.0,60.0,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+908130,3.0,0.0,0.0,0.0,28.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+908152,15.0,0.0,0.0,0.0,60.0,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+908162,3.0,0.0,0.0,0.0,79.5,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+908180,1.0,0.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+908300,5.0,0.0,0.0,0.0,93.66666666666667,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+908640,0.0,16699.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+908718,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+908834,23.0,2.0,0.0,0.0,195.25,False,True,True,2,True,Ineficaz,120-300 s,2,Regular,0.0,Entrante y Saliente
+908958,1008.0,132.0,4.0,0.003968253968253968,280.26262626262627,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.4,Entrante y Saliente
+908960,755.0,116.0,8.0,0.010596026490066225,153.68695652173912,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,1.06,Entrante y Saliente
+908984,0.0,13.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+909134,215.0,6.0,1.0,0.004651162790697674,108.9,False,True,True,2,True,Ineficaz,60-120 s,2,Regular,0.47,Entrante y Saliente
+909308,0.0,15.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+909392,5.0,0.0,0.0,0.0,26.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+909452,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+909502,0.0,865.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+909624,3.0,0.0,0.0,0.0,50.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+909768,14.0,0.0,0.0,0.0,42.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+909892,4.0,4.0,0.0,0.0,14.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+909894,1.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+909896,1.0,0.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+909910,0.0,344.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910018,132.0,0.0,0.0,0.0,56.732142857142854,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+910038,2.0,0.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+910044,19.0,0.0,0.0,0.0,28.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+910224,11.0,0.0,0.0,0.0,19.125,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+910226,8.0,0.0,2.0,0.25,16.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,25.0,Solo Entrante
+910516,35.0,0.0,0.0,0.0,31.32,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+910520,0.0,227.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910524,0.0,85.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910530,0.0,1077.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910532,0.0,214.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910540,168.0,0.0,1.0,0.005952380952380952,56.79032258064516,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.6,Solo Entrante
+910594,0.0,28.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910902,0.0,17.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910926,0.0,25.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+910958,13.0,0.0,0.0,0.0,70.9,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+911102,36.0,0.0,3.0,0.08333333333333333,44.791666666666664,True,False,False,1,True,Ineficaz,<=52.4 s,1,Bueno,8.33,Solo Entrante
+911104,1.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+911136,240.0,0.0,1.0,0.004166666666666667,91.65384615384616,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.42,Solo Entrante
+911138,316.0,0.0,4.0,0.012658227848101266,101.50819672131148,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.27,Solo Entrante
+911140,75.0,0.0,2.0,0.02666666666666667,54.583333333333336,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,2.67,Solo Entrante
+911142,26.0,0.0,3.0,0.11538461538461539,65.88888888888889,True,True,False,2,True,Ineficaz,60-120 s,2,Regular,11.54,Solo Entrante
+911152,2.0,0.0,0.0,0.0,43.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+911214,2.0,0.0,0.0,0.0,18.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+911310,418.0,107.0,2.0,0.004784688995215311,92.91803278688525,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.48,Entrante y Saliente
+912010,146.0,0.0,2.0,0.0136986301369863,49.333333333333336,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.37,Solo Entrante
+912252,42.0,269.0,0.0,0.0,22.93103448275862,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+912296,176.0,511.0,3.0,0.017045454545454544,42.333333333333336,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.7,Entrante y Saliente
+912684,26.0,0.0,1.0,0.038461538461538464,60.4,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,3.85,Solo Entrante
+912722,175.0,432.0,0.0,0.0,20.470588235294116,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+913474,2.0,11.0,0.0,0.0,74.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+913780,5.0,0.0,0.0,0.0,29.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+913788,831.0,1029.0,2.0,0.0024067388688327317,182.91780821917808,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.24,Entrante y Saliente
+913868,19.0,25.0,0.0,0.0,48.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+913886,2.0,0.0,1.0,0.5,13.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,50.0,Solo Entrante
+913938,5221.0,436.0,14.0,0.002681478643937943,535.047619047619,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.27,Entrante y Saliente
+913942,2641.0,468.0,29.0,0.010980689132904203,350.85555555555555,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,1.1,Entrante y Saliente
+913984,1.0,11.0,0.0,0.0,17.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914036,0.0,35.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914050,12.0,426.0,0.0,0.0,10.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914052,0.0,1468.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914168,1.0,10.0,0.0,0.0,11.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914170,15.0,4.0,0.0,0.0,29.5,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914172,12.0,0.0,0.0,0.0,34.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+914238,0.0,374.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914240,0.0,56.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914256,25.0,1.0,0.0,0.0,23.9375,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914266,0.0,5.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914272,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914338,0.0,48.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914348,0.0,9.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914426,3.0,4.0,0.0,0.0,23.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914440,30.0,1.0,1.0,0.03333333333333333,30.157894736842106,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,3.33,Entrante y Saliente
+914626,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914630,25.0,143.0,0.0,0.0,22.615384615384617,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914636,3.0,15.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914816,0.0,7.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+914842,6.0,0.0,0.0,0.0,18.833333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+914848,2.0,20.0,0.0,0.0,18.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+914870,5.0,4.0,0.0,0.0,21.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+915358,0.0,277.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+915360,0.0,287.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+915504,0.0,33.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+915556,196.0,2225.0,3.0,0.015306122448979591,20.29230769230769,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.53,Entrante y Saliente
+915558,0.0,161.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+915614,2.0,76.0,0.0,0.0,56.0,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+915958,11.0,23.0,0.0,0.0,37.166666666666664,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+916424,493.0,143.0,3.0,0.006085192697768763,122.14634146341463,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.61,Entrante y Saliente
+916596,0.0,30.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+916618,55.0,120.0,0.0,0.0,35.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+917234,5.0,1220.0,0.0,0.0,13.8,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+917252,7.0,14.0,0.0,0.0,66.5,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+917378,3.0,14.0,0.0,0.0,12.666666666666666,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+917446,0.0,15.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+917680,2.0,43.0,0.0,0.0,100.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+917682,0.0,7.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+917846,3.0,41.0,0.0,0.0,12.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+917850,186.0,171.0,1.0,0.005376344086021506,60.53846153846154,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.54,Entrante y Saliente
+917852,428.0,1114.0,1.0,0.002336448598130841,152.0188679245283,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.23,Entrante y Saliente
+917856,3.0,78.0,0.0,0.0,16.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+917858,1.0,4.0,0.0,0.0,14.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+917876,9.0,2.0,0.0,0.0,15.625,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+917890,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+918390,0.0,262.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+918436,40.0,865.0,1.0,0.025,32.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.5,Entrante y Saliente
+918452,0.0,327.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+918888,8.0,3.0,1.0,0.125,9.375,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,12.5,Entrante y Saliente
+918956,2.0,17.0,0.0,0.0,34.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+918958,2.0,8.0,0.0,0.0,37.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+918978,769.0,1360.0,4.0,0.005201560468140442,168.88888888888889,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.52,Entrante y Saliente
+918986,713.0,1623.0,0.0,0.0,136.88235294117646,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+918988,1.0,1.0,0.0,0.0,13.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+919126,0.0,291.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919128,0.0,388.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919162,0.0,2933.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919164,720.0,11.0,3.0,0.004166666666666667,343.9230769230769,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.42,Entrante y Saliente
+919166,1209.0,21.0,5.0,0.0041356492969396195,398.6470588235294,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.41,Entrante y Saliente
+919188,0.0,864.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919190,2.0,83.0,0.0,0.0,11.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919192,0.0,2233.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919194,0.0,1565.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919196,0.0,2896.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919198,0.0,1113.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919200,0.0,1297.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919202,0.0,2853.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919204,1307.0,9.0,5.0,0.0038255547054322878,651.125,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.38,Entrante y Saliente
+919206,998.0,1.0,9.0,0.009018036072144289,377.9047619047619,False,True,True,2,True,Ineficaz,>300 s,2,Regular,0.9,Entrante y Saliente
+919214,21.0,1.0,0.0,0.0,51.81818181818182,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+919218,21.0,304.0,1.0,0.047619047619047616,28.3,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.76,Entrante y Saliente
+919302,0.0,2528.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919306,0.0,1664.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919310,0.0,2569.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919314,0.0,2794.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919318,0.0,1846.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919362,0.0,2546.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919364,0.0,5096.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919370,0.0,1324.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919372,0.0,1627.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919374,0.0,2214.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919376,0.0,1415.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919378,0.0,1227.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919382,0.0,1827.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919390,0.0,831.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919418,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+919456,0.0,1517.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919464,0.0,1296.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919476,0.0,2105.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919482,0.0,1549.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919490,0.0,1803.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919504,0.0,2214.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919536,2.0,13.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919552,1237.0,70.0,1.0,0.0008084074373484236,571.0405405405405,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.08,Entrante y Saliente
+919554,1345.0,14.0,11.0,0.008178438661710037,523.9036144578313,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.82,Entrante y Saliente
+919790,1790.0,25.0,0.0,0.0,875.0882352941177,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.0,Entrante y Saliente
+919792,829.0,84.0,2.0,0.0024125452352231603,389.484375,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.24,Entrante y Saliente
+919794,1327.0,21.0,1.0,0.0007535795026375283,1039.5405405405406,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.08,Entrante y Saliente
+919896,8.0,0.0,2.0,0.25,15.571428571428571,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,25.0,Solo Entrante
+919906,0.0,1710.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919910,0.0,377.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+919956,13.0,0.0,0.0,0.0,10.538461538461538,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+919958,2.0,0.0,0.0,0.0,35.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+919994,21.0,0.0,0.0,0.0,68.6923076923077,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+920146,0.0,90.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+920414,0.0,1266.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+920416,0.0,1697.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+920666,204.0,305.0,1.0,0.004901960784313725,38.851063829787236,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.49,Entrante y Saliente
+920706,81.0,171.0,3.0,0.037037037037037035,59.9375,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,3.7,Entrante y Saliente
+920720,137.0,210.0,0.0,0.0,59.1025641025641,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+920726,59.0,61.0,2.0,0.03389830508474576,38.04347826086956,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.39,Entrante y Saliente
+920728,204.0,108.0,3.0,0.014705882352941176,84.23076923076923,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.47,Entrante y Saliente
+920732,120.0,175.0,0.0,0.0,65.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+920838,67.0,189.0,0.0,0.0,31.28,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+920852,197.0,308.0,3.0,0.015228426395939087,50.16279069767442,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.52,Entrante y Saliente
+920874,33.0,0.0,0.0,0.0,48.05263157894737,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+920902,59.0,21.0,1.0,0.01694915254237288,93.1,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.69,Entrante y Saliente
+920928,0.0,16.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+920930,1.0,0.0,0.0,0.0,62.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+920982,61.0,0.0,0.0,0.0,47.375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+921062,120.0,8.0,0.0,0.0,35.945945945945944,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+921102,13.0,17.0,0.0,0.0,29.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921104,6.0,9.0,0.0,0.0,30.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921116,0.0,122.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921306,475.0,592.0,4.0,0.008421052631578947,198.59615384615384,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.84,Entrante y Saliente
+921316,0.0,87.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921318,2481.0,2864.0,7.0,0.0028214429665457475,650.2857142857143,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.28,Entrante y Saliente
+921320,80.0,317.0,1.0,0.0125,83.18181818181819,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.25,Entrante y Saliente
+921574,0.0,1778.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921584,0.0,1346.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921592,0.0,1805.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921594,0.0,1145.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921596,0.0,1502.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+921814,52.0,48.0,1.0,0.019230769230769232,59.0,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,1.92,Entrante y Saliente
+921818,2003.0,2306.0,10.0,0.004992511233150275,277.37333333333333,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.5,Entrante y Saliente
+922114,1.0,12.0,0.0,0.0,61.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+922142,0.0,792.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+922154,2.0,0.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+922356,22.0,0.0,0.0,0.0,57.5,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+922428,30.0,230.0,0.0,0.0,14.764705882352942,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+922474,91.0,231.0,0.0,0.0,35.6,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+922476,0.0,207.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+922486,1.0,7.0,0.0,0.0,8.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+922698,4.0,12.0,0.0,0.0,21.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+922710,0.0,1784.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+923250,0.0,182.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+923254,1.0,9.0,0.0,0.0,45.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+923526,1016.0,2037.0,2.0,0.001968503937007874,112.24285714285715,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.2,Entrante y Saliente
+923528,126.0,676.0,2.0,0.015873015873015872,60.46,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.59,Entrante y Saliente
+923646,2.0,0.0,0.0,0.0,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+923666,0.0,2074.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+923744,1.0,0.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+923944,43.0,0.0,0.0,0.0,16.8,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+924356,0.0,268.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924370,0.0,16.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924544,108.0,13.0,0.0,0.0,19.63888888888889,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924546,48.0,83.0,1.0,0.020833333333333332,29.6,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.08,Entrante y Saliente
+924572,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+924614,7.0,16.0,0.0,0.0,8.6,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924662,1.0,0.0,0.0,0.0,20.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+924928,33.0,59.0,1.0,0.030303030303030304,73.23529411764706,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,3.03,Entrante y Saliente
+924930,22.0,246.0,1.0,0.045454545454545456,33.42857142857143,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.55,Entrante y Saliente
+924932,3.0,33.0,0.0,0.0,18.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924934,5.0,621.0,0.0,0.0,64.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+924936,8.0,0.0,1.0,0.125,25.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,12.5,Solo Entrante
+924940,8.0,215.0,0.0,0.0,27.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924946,8.0,48.0,0.0,0.0,39.833333333333336,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924948,17.0,265.0,1.0,0.058823529411764705,21.928571428571427,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,5.88,Entrante y Saliente
+924950,31.0,312.0,0.0,0.0,34.7,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924952,26.0,92.0,0.0,0.0,44.53846153846154,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924954,20.0,120.0,1.0,0.05,46.142857142857146,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,5.0,Entrante y Saliente
+924956,38.0,68.0,0.0,0.0,32.61904761904762,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924958,31.0,242.0,0.0,0.0,21.38888888888889,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+924960,54.0,249.0,1.0,0.018518518518518517,38.064516129032256,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.85,Entrante y Saliente
+925104,919.0,1367.0,0.0,0.0,113.9672131147541,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+925106,23.0,0.0,0.0,0.0,40.625,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+925134,0.0,44.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+925808,11.0,0.0,0.0,0.0,23.22222222222222,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+925826,169.0,539.0,1.0,0.005917159763313609,28.047619047619047,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.59,Entrante y Saliente
+925828,171.0,475.0,0.0,0.0,29.555555555555557,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+925922,456.0,21754.0,9.0,0.019736842105263157,105.20689655172414,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.97,Entrante y Saliente
+926184,42.0,32.0,0.0,0.0,30.9375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+926214,3.0,0.0,0.0,0.0,27.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+926312,10.0,130.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+926486,16.0,2610.0,0.0,0.0,10.23076923076923,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+926490,11.0,144.0,1.0,0.09090909090909091,27.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,9.09,Entrante y Saliente
+926872,25.0,7.0,1.0,0.04,1.4285714285714286,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,4.0,Entrante y Saliente
+927070,42.0,0.0,0.0,0.0,71.07692307692308,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+927142,4.0,3.0,0.0,0.0,3.75,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+927908,5.0,0.0,0.0,0.0,4.333333333333333,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+927910,31.0,0.0,1.0,0.03225806451612903,7.363636363636363,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.23,Solo Entrante
+927912,17.0,0.0,1.0,0.058823529411764705,5.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,5.88,Solo Entrante
+927916,147.0,488.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+928022,8.0,0.0,0.0,0.0,31.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+928092,5.0,0.0,0.0,0.0,78.66666666666667,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+928142,8.0,0.0,0.0,0.0,13.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+928202,32.0,0.0,0.0,0.0,28.11111111111111,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+928228,0.0,69.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+928282,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+928284,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+928312,19.0,1956.0,0.0,0.0,18.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+928382,12.0,11.0,1.0,0.08333333333333333,4.222222222222222,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,8.33,Entrante y Saliente
+928404,5.0,0.0,0.0,0.0,25.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+928518,0.0,337.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+928886,60.0,773.0,1.0,0.016666666666666666,17.413793103448278,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.67,Entrante y Saliente
+928888,349.0,659.0,1.0,0.0028653295128939827,69.45,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.29,Entrante y Saliente
+928926,1.0,15.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+929228,1.0,91.0,0.0,0.0,24.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+929332,40.0,0.0,0.0,0.0,32.77777777777778,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+929340,8.0,0.0,0.0,0.0,58.166666666666664,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+929424,1431.0,4006.0,3.0,0.0020964360587002098,34.96296296296296,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.21,Entrante y Saliente
+929426,0.0,12041.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+929428,0.0,24572.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+929542,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+929544,0.0,66.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+929622,14.0,4.0,0.0,0.0,20.3,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+929626,42.0,21.0,0.0,0.0,25.95,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+929876,36.0,93.0,1.0,0.027777777777777776,25.894736842105264,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.78,Entrante y Saliente
+929884,33.0,26.0,0.0,0.0,42.15384615384615,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930020,89.0,602.0,5.0,0.056179775280898875,23.516129032258064,True,False,False,1,True,Ineficaz,<=52.4 s,1,Bueno,5.62,Entrante y Saliente
+930186,7.0,56.0,0.0,0.0,7.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930242,4.0,0.0,1.0,0.25,17.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,25.0,Solo Entrante
+930264,4.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+930326,11.0,1.0,0.0,0.0,14.444444444444445,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930510,2.0,2.0,0.0,0.0,22.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930524,0.0,28.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930582,1.0,0.0,0.0,0.0,16.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+930586,0.0,230.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930590,0.0,68.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930594,2.0,54.0,0.0,0.0,21.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930660,4.0,20.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930662,0.0,23.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930690,2.0,4.0,0.0,0.0,6.5,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930692,0.0,6.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930814,12.0,3.0,0.0,0.0,18.7,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930816,4.0,1.0,0.0,0.0,12.75,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930818,3.0,0.0,0.0,0.0,13.666666666666666,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+930820,5.0,2.0,0.0,0.0,14.2,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+930908,38.0,42.0,0.0,0.0,8.958333333333334,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930910,1.0,13.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930912,0.0,246.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+930914,0.0,329.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+931458,2127.0,2561.0,11.0,0.005171603196991067,679.5849056603773,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.52,Entrante y Saliente
+931914,33.0,0.0,0.0,0.0,27.1,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+932050,0.0,145.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932088,0.0,12.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932246,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+932292,6.0,109.0,0.0,0.0,22.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932304,2.0,56.0,0.0,0.0,20.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932460,29.0,0.0,1.0,0.034482758620689655,27.166666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.45,Solo Entrante
+932498,1.0,341.0,0.0,0.0,11.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932500,9.0,1189.0,0.0,0.0,22.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932502,5.0,756.0,0.0,0.0,16.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932672,7.0,0.0,0.0,0.0,3.3333333333333335,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+932676,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+932750,12.0,17.0,0.0,0.0,23.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932754,2.0,3.0,0.0,0.0,5.5,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+932798,117.0,12.0,1.0,0.008547008547008548,42.25925925925926,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.85,Entrante y Saliente
+932836,22.0,324.0,0.0,0.0,23.166666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+932856,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+933070,67.0,782.0,1.0,0.014925373134328358,72.66666666666667,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.49,Entrante y Saliente
+933244,2.0,84.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+933452,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+933804,25.0,0.0,0.0,0.0,24.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+933806,0.0,391.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+933810,0.0,108.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+933832,28.0,0.0,0.0,0.0,37.89473684210526,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+933986,16.0,10.0,1.0,0.0625,21.444444444444443,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,6.25,Entrante y Saliente
+933996,4.0,11.0,0.0,0.0,25.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+934000,8.0,2.0,0.0,0.0,24.4,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+934074,38.0,0.0,1.0,0.02631578947368421,27.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.63,Solo Entrante
+934076,11.0,0.0,1.0,0.09090909090909091,44.42857142857143,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,9.09,Solo Entrante
+934098,6.0,0.0,2.0,0.3333333333333333,31.8,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,33.33,Solo Entrante
+934170,8.0,0.0,0.0,0.0,16.4,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+934188,6.0,2.0,0.0,0.0,34.666666666666664,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+934424,8.0,0.0,0.0,0.0,31.571428571428573,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+934426,0.0,222.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+934428,41.0,0.0,0.0,0.0,40.291666666666664,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+934430,31.0,0.0,2.0,0.06451612903225806,33.84,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,6.45,Solo Entrante
+934432,9.0,0.0,0.0,0.0,46.285714285714285,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+934476,1.0,10.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+934534,133.0,0.0,2.0,0.015037593984962405,59.73170731707317,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,1.5,Solo Entrante
+934608,10.0,0.0,0.0,0.0,16.875,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+935216,2.0,34.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+935244,2.0,28.0,0.0,0.0,38.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+935246,0.0,7.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+935264,4.0,66.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+935268,5.0,0.0,0.0,0.0,12.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+935348,174.0,187.0,1.0,0.005747126436781609,52.72,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.57,Entrante y Saliente
+935394,1.0,0.0,0.0,0.0,7.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+935548,19.0,5.0,0.0,0.0,17.25,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+935870,8.0,0.0,0.0,0.0,14.714285714285714,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+935956,2.0,1.0,0.0,0.0,52.5,False,True,True,2,True,Ineficaz,52.4-60 s,2,Regular,0.0,Entrante y Saliente
+935958,35.0,0.0,1.0,0.02857142857142857,38.95,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.86,Solo Entrante
+936110,167.0,0.0,0.0,0.0,59.81818181818182,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+936296,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+936324,31.0,131.0,0.0,0.0,33.46153846153846,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+936382,1.0,484.0,0.0,0.0,39.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+936514,82.0,0.0,1.0,0.012195121951219513,43.94285714285714,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.22,Solo Entrante
+936984,75.0,0.0,0.0,0.0,30.257142857142856,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+937156,0.0,67.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937352,0.0,31.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937362,5.0,6.0,0.0,0.0,126.5,False,True,True,2,True,Ineficaz,120-300 s,2,Regular,0.0,Entrante y Saliente
+937366,3.0,3.0,0.0,0.0,80.5,False,True,True,2,True,Ineficaz,60-120 s,2,Regular,0.0,Entrante y Saliente
+937368,23.0,11.0,2.0,0.08695652173913043,38.857142857142854,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,8.7,Entrante y Saliente
+937370,1.0,7.0,0.0,0.0,7.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937372,0.0,1282.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937374,30.0,0.0,0.0,0.0,58.72222222222222,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Solo Entrante
+937422,0.0,37.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937428,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937430,0.0,34.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937432,3.0,25.0,1.0,0.3333333333333333,12.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,33.33,Entrante y Saliente
+937604,7.0,56.0,0.0,0.0,16.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937650,0.0,91.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937678,20.0,176.0,0.0,0.0,14.733333333333333,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937708,205.0,750.0,0.0,0.0,77.38235294117646,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+937710,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937716,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937720,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937732,131.0,194.0,2.0,0.015267175572519083,58.23684210526316,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,1.53,Entrante y Saliente
+937736,304.0,1285.0,2.0,0.006578947368421052,108.75,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.66,Entrante y Saliente
+937742,22.0,3.0,0.0,0.0,24.5,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937750,61.0,46.0,1.0,0.01639344262295082,51.666666666666664,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.64,Entrante y Saliente
+937752,493.0,1760.0,0.0,0.0,123.88372093023256,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+937760,351.0,762.0,1.0,0.002849002849002849,98.46341463414635,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.28,Entrante y Saliente
+937762,99.0,228.0,1.0,0.010101010101010102,37.42857142857143,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.01,Entrante y Saliente
+937770,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937772,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937774,140.0,176.0,0.0,0.0,79.91666666666667,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+937778,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937780,170.0,962.0,2.0,0.011764705882352941,48.07692307692308,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.18,Entrante y Saliente
+937782,25.0,30.0,0.0,0.0,20.875,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937786,3.0,12.0,0.0,0.0,13.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937788,134.0,535.0,0.0,0.0,52.86206896551724,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+937808,146.0,921.0,1.0,0.00684931506849315,50.303030303030305,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.68,Entrante y Saliente
+937810,99.0,308.0,0.0,0.0,24.194444444444443,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937812,182.0,215.0,2.0,0.01098901098901099,75.60606060606061,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.1,Entrante y Saliente
+937854,207.0,599.0,0.0,0.0,54.34285714285714,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+937856,11.0,32.0,0.0,0.0,17.142857142857142,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937860,240.0,1531.0,4.0,0.016666666666666666,50.390243902439025,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.67,Entrante y Saliente
+937862,127.0,374.0,0.0,0.0,48.7,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937864,49.0,60.0,1.0,0.02040816326530612,26.31578947368421,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.04,Entrante y Saliente
+937868,67.0,278.0,1.0,0.014925373134328358,29.12,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.49,Entrante y Saliente
+937870,0.0,13.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937872,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937874,23.0,149.0,1.0,0.043478260869565216,31.285714285714285,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.35,Entrante y Saliente
+937880,7.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+937888,213.0,1020.0,0.0,0.0,45.473684210526315,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937898,9.0,38.0,1.0,0.1111111111111111,34.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,11.11,Entrante y Saliente
+937900,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+937902,257.0,959.0,1.0,0.0038910505836575876,98.90322580645162,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.39,Entrante y Saliente
+937956,901.0,1.0,9.0,0.009988901220865706,17.925373134328357,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,1.0,Entrante y Saliente
+937958,303.0,0.0,6.0,0.019801980198019802,37.767857142857146,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.98,Solo Entrante
+937960,227.0,0.0,2.0,0.00881057268722467,49.88235294117647,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.88,Solo Entrante
+937962,117.0,0.0,4.0,0.03418803418803419,47.5609756097561,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.42,Solo Entrante
+937966,265.0,865.0,3.0,0.011320754716981131,62.361111111111114,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.13,Entrante y Saliente
+937980,91.0,145.0,0.0,0.0,42.95454545454545,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937984,27.0,41.0,0.0,0.0,25.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+937988,81.0,284.0,0.0,0.0,31.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938022,15.0,265.0,0.0,0.0,26.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938070,0.0,671.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938072,0.0,494.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938074,0.0,664.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938078,0.0,856.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938080,0.0,742.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938414,93.0,53.0,2.0,0.021505376344086023,238.55555555555554,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,2.15,Entrante y Saliente
+938432,10.0,0.0,0.0,0.0,28.571428571428573,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+938612,73.0,138.0,0.0,0.0,18.95,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938614,44.0,30.0,1.0,0.022727272727272728,17.4,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.27,Entrante y Saliente
+938842,0.0,113.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+938896,1224.0,2393.0,5.0,0.004084967320261438,171.16363636363636,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.41,Entrante y Saliente
+939212,9.0,11.0,0.0,0.0,20.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939218,11.0,377.0,0.0,0.0,9.666666666666666,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939222,35.0,945.0,0.0,0.0,19.272727272727273,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939224,35.0,1516.0,1.0,0.02857142857142857,33.05882352941177,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.86,Entrante y Saliente
+939236,0.0,5.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+939370,502.0,518.0,4.0,0.00796812749003984,200.95744680851064,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.8,Entrante y Saliente
+939376,274.0,1205.0,1.0,0.0036496350364963502,120.3125,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.36,Entrante y Saliente
+939470,19.0,729.0,0.0,0.0,36.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939474,217.0,603.0,0.0,0.0,145.54545454545453,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+939476,54.0,877.0,1.0,0.018518518518518517,62.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.85,Entrante y Saliente
+939478,22.0,105.0,1.0,0.045454545454545456,43.785714285714285,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.55,Entrante y Saliente
+939684,19.0,142.0,0.0,0.0,24.818181818181817,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939698,2.0,1.0,0.0,0.0,13.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+939706,653.0,1027.0,4.0,0.006125574272588055,160.21052631578948,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.61,Entrante y Saliente
+939708,10.0,36.0,1.0,0.1,17.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,10.0,Entrante y Saliente
+939716,14.0,16.0,0.0,0.0,23.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939718,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939736,0.0,19.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939738,0.0,692.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+939762,935.0,2045.0,0.0,0.0,338.5744680851064,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,0.0,Entrante y Saliente
+939886,0.0,311.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940430,75.0,27.0,1.0,0.013333333333333334,2.5714285714285716,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.33,Entrante y Saliente
+940432,144.0,178.0,0.0,0.0,59.5,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+940434,126.0,156.0,0.0,0.0,29.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940436,32.0,7.0,0.0,0.0,34.3,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940438,73.0,416.0,0.0,0.0,15.153846153846153,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940440,46.0,14.0,0.0,0.0,32.4375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940442,223.0,353.0,2.0,0.008968609865470852,5.241379310344827,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.9,Entrante y Saliente
+940456,26.0,33.0,0.0,0.0,14.266666666666667,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940458,26.0,70.0,0.0,0.0,37.86363636363637,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940460,0.0,86.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940474,0.0,30.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940486,0.0,23.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940508,2.0,0.0,0.0,0.0,41.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+940512,1.0,0.0,0.0,0.0,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+940514,1.0,0.0,0.0,0.0,11.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+940568,3.0,7.0,0.0,0.0,9.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940588,2382.0,77.0,15.0,0.006297229219143577,125.30508474576271,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.63,Entrante y Saliente
+940596,1.0,489.0,0.0,0.0,4.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940610,2.0,1.0,0.0,0.0,4.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940614,145.0,574.0,3.0,0.020689655172413793,42.81818181818182,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.07,Entrante y Saliente
+940616,645.0,2691.0,5.0,0.007751937984496124,109.24242424242425,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.78,Entrante y Saliente
+940622,729.0,815.0,12.0,0.01646090534979424,102.1875,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.65,Entrante y Saliente
+940624,597.0,1217.0,4.0,0.006700167504187605,89.39473684210526,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.67,Entrante y Saliente
+940630,2100.0,180.0,11.0,0.005238095238095238,169.92156862745097,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.52,Entrante y Saliente
+940634,491.0,1743.0,7.0,0.014256619144602852,103.86111111111111,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.43,Entrante y Saliente
+940652,414.0,968.0,7.0,0.016908212560386472,61.32142857142857,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.69,Entrante y Saliente
+940658,938.0,1850.0,7.0,0.007462686567164179,108.28571428571429,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.75,Entrante y Saliente
+940772,2.0,0.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+940782,0.0,11.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940788,0.0,11.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940802,0.0,5.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940814,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940828,2.0,13.0,0.0,0.0,2.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+940842,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940848,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+940952,164.0,110.0,0.0,0.0,139.33333333333334,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+940968,18.0,0.0,0.0,0.0,24.076923076923077,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+941192,0.0,1239.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+941384,52.0,706.0,0.0,0.0,22.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+941390,1.0,376.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+941628,1.0,147.0,0.0,0.0,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+941736,0.0,11.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+941740,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+941786,3.0,0.0,0.0,0.0,39.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+941810,0.0,6.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+941816,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+941826,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+941838,0.0,9.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+941842,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+941844,8.0,12.0,1.0,0.125,27.6,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,12.5,Entrante y Saliente
+942174,0.0,6.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+942214,3.0,0.0,0.0,0.0,10.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+943050,0.0,85.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+943066,100.0,193.0,0.0,0.0,72.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+943818,1.0,26.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+944210,133.0,51.0,0.0,0.0,203.69565217391303,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+944216,287.0,147.0,21.0,0.07317073170731707,163.03174603174602,True,True,False,2,True,Ineficaz,120-300 s,2,Regular,7.32,Entrante y Saliente
+944218,272.0,179.0,12.0,0.04411764705882353,188.35849056603774,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,4.41,Entrante y Saliente
+944220,326.0,232.0,14.0,0.04294478527607362,198.33898305084745,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,4.29,Entrante y Saliente
+944222,191.0,372.0,11.0,0.05759162303664921,144.93333333333334,True,True,False,2,True,Ineficaz,120-300 s,2,Regular,5.76,Entrante y Saliente
+944226,202.0,134.0,15.0,0.07425742574257425,163.88888888888889,True,True,False,2,True,Ineficaz,120-300 s,2,Regular,7.43,Entrante y Saliente
+944228,31.0,5.0,0.0,0.0,128.25,False,True,True,2,True,Ineficaz,120-300 s,2,Regular,0.0,Entrante y Saliente
+944246,9.0,1.0,0.0,0.0,66.6,False,True,True,2,True,Ineficaz,60-120 s,2,Regular,0.0,Entrante y Saliente
+944310,3.0,0.0,0.0,0.0,7.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+944474,6.0,13.0,0.0,0.0,75.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+944476,203.0,17.0,0.0,0.0,98.17857142857143,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+944560,5.0,1.0,0.0,0.0,29.666666666666668,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+944564,2.0,0.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+944644,30.0,147.0,0.0,0.0,45.4375,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+944646,280.0,368.0,1.0,0.0035714285714285713,102.03571428571429,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.36,Entrante y Saliente
+944648,5.0,47.0,0.0,0.0,66.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+944764,355.0,290.0,2.0,0.005633802816901409,117.76190476190476,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.56,Entrante y Saliente
+944766,152.0,143.0,1.0,0.006578947368421052,114.5,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.66,Entrante y Saliente
+944808,256.0,0.0,0.0,0.0,17.636363636363637,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+944908,2.0,0.0,0.0,0.0,13.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+945046,72.0,32.0,4.0,0.05555555555555555,95.71428571428571,True,True,False,2,True,Ineficaz,60-120 s,2,Regular,5.56,Entrante y Saliente
+945052,74.0,22.0,1.0,0.013513513513513514,93.5,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.35,Entrante y Saliente
+945058,4.0,1.0,0.0,0.0,37.5,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+945074,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+945274,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+945278,0.0,4314.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945280,0.0,2538.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945282,0.0,2582.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945284,0.0,2210.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945286,0.0,7919.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945288,0.0,2260.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945290,0.0,3943.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945294,0.0,3434.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945296,0.0,2821.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945298,0.0,1600.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945302,0.0,7059.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945304,0.0,2918.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945308,0.0,1761.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945310,0.0,3580.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945312,0.0,2519.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945314,0.0,1861.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945316,0.0,2751.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945318,0.0,1998.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945320,0.0,2605.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945322,0.0,5015.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945324,0.0,2254.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945710,1.0,0.0,0.0,0.0,17.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+945728,0.0,117.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945894,0.0,1506.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945898,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+945900,0.0,4817.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945902,0.0,3310.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+945904,0.0,4080.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+946020,1.0,0.0,0.0,0.0,3.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+946032,1.0,0.0,0.0,0.0,8.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+946072,1.0,1.0,0.0,0.0,6.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+946454,0.0,13.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+946468,1.0,0.0,0.0,0.0,25.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+946582,44.0,33.0,0.0,0.0,8.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+946916,32.0,0.0,0.0,0.0,42.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+946988,3.0,5.0,0.0,0.0,15.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+947304,43.0,784.0,4.0,0.09302325581395349,10.130434782608695,True,False,False,1,True,Ineficaz,<=52.4 s,1,Bueno,9.3,Entrante y Saliente
+947306,2.0,0.0,0.0,0.0,10.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+947480,0.0,5.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+947590,0.0,190.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947592,0.0,910.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947596,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+947598,0.0,492.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947600,0.0,321.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947604,1.0,975.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947610,2.0,22.0,0.0,0.0,9.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947612,1.0,123.0,0.0,0.0,18.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947614,0.0,995.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947616,0.0,2151.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947618,0.0,1134.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947620,0.0,1277.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947636,0.0,109.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947638,2.0,1342.0,0.0,0.0,27.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947640,0.0,538.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947642,1.0,968.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947644,0.0,470.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947646,0.0,1984.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947648,0.0,3071.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947650,0.0,1791.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947652,0.0,575.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947654,0.0,2619.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947658,0.0,2855.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947816,14.0,30.0,0.0,0.0,32.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947818,15.0,37.0,0.0,0.0,30.6,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+947820,0.0,17.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+948150,32.0,9.0,0.0,0.0,79.75,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+948170,2.0,3.0,0.0,0.0,15.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+948182,136.0,491.0,0.0,0.0,56.12903225806452,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+948282,1.0,0.0,0.0,0.0,1.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+948284,4.0,0.0,0.0,0.0,26.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+948286,384.0,0.0,6.0,0.015625,145.61904761904762,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,1.56,Solo Entrante
+948288,24.0,0.0,1.0,0.041666666666666664,28.09090909090909,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,4.17,Solo Entrante
+948524,4.0,0.0,0.0,0.0,5.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+948756,1.0,175.0,1.0,1.0,8.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,100.0,Entrante y Saliente
+948758,19.0,657.0,1.0,0.05263157894736842,53.55555555555556,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,5.26,Entrante y Saliente
+949252,3.0,0.0,0.0,0.0,20.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+949420,5.0,1.0,0.0,0.0,1.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+950444,0.0,95.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+950632,1.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+950634,9.0,0.0,0.0,0.0,13.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+950640,1.0,0.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+950672,1.0,53.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+950806,9.0,4.0,0.0,0.0,17.6,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+950972,4.0,893.0,0.0,0.0,29.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+951046,3.0,55.0,0.0,0.0,14.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+951118,4.0,0.0,0.0,0.0,32.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+951186,92.0,9.0,0.0,0.0,66.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+951290,1.0,20.0,0.0,0.0,17.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+951332,9.0,5.0,0.0,0.0,55.8,False,True,True,2,True,Ineficaz,52.4-60 s,2,Regular,0.0,Entrante y Saliente
+951408,0.0,40.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+951490,33.0,0.0,1.0,0.030303030303030304,24.157894736842106,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,3.03,Solo Entrante
+951492,30.0,166.0,0.0,0.0,45.266666666666666,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+951506,43.0,218.0,0.0,0.0,98.27777777777777,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+951508,339.0,153.0,12.0,0.035398230088495575,183.9142857142857,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,3.54,Entrante y Saliente
+951526,18.0,0.0,0.0,0.0,18.714285714285715,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+951614,7.0,0.0,0.0,0.0,26.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+951648,0.0,161.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+951650,2.0,10.0,0.0,0.0,45.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952114,1.0,691.0,0.0,0.0,3.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952116,0.0,354.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952126,7.0,0.0,0.0,0.0,20.2,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+952196,2.0,3.0,0.0,0.0,12.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+952292,2.0,0.0,0.0,0.0,81.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+952392,0.0,1557.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952458,0.0,1738.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952460,0.0,199.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952462,10.0,2.0,0.0,0.0,31.142857142857142,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+952466,0.0,134.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952468,0.0,1184.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952656,4.0,41.0,0.0,0.0,7.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952666,1.0,0.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+952678,1.0,0.0,0.0,0.0,30.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+952734,452.0,0.0,0.0,0.0,24.95,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+952914,98.0,607.0,0.0,0.0,40.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+952916,1.0,7.0,0.0,0.0,25.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+952948,4110.0,1311.0,7.0,0.0017031630170316302,183.97222222222223,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.17,Entrante y Saliente
+952954,3.0,0.0,0.0,0.0,1.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+952968,2.0,2.0,0.0,0.0,5.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+952982,9.0,0.0,0.0,0.0,1.1428571428571428,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+953362,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+953458,0.0,61.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+953460,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+953462,0.0,761.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+953464,67.0,396.0,2.0,0.029850746268656716,29.952380952380953,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.99,Entrante y Saliente
+953940,1.0,0.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+953952,9.0,0.0,0.0,0.0,31.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+954086,31.0,1.0,0.0,0.0,64.0,False,True,True,2,True,Ineficaz,60-120 s,2,Regular,0.0,Entrante y Saliente
+954284,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+954290,12.0,0.0,0.0,0.0,29.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+954318,1.0,1.0,0.0,0.0,4.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+954376,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+954378,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+954380,0.0,4.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+954616,7.0,0.0,0.0,0.0,7.666666666666667,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+954642,0.0,417.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+954650,462.0,1014.0,2.0,0.004329004329004329,229.0,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.43,Entrante y Saliente
+954750,223.0,73.0,1.0,0.004484304932735426,271.0,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.45,Entrante y Saliente
+954810,37.0,0.0,0.0,0.0,30.545454545454547,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+955032,38.0,36.0,1.0,0.02631578947368421,27.333333333333332,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.63,Entrante y Saliente
+955068,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+955082,0.0,14.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+955086,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+955090,0.0,28.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+955094,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+955164,2.0,3.0,0.0,0.0,26.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+955436,1.0,0.0,0.0,0.0,23.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+955820,0.0,9.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+956080,5.0,0.0,0.0,0.0,84.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+956268,7.0,22.0,0.0,0.0,28.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+956276,8.0,10.0,0.0,0.0,17.666666666666668,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+956292,3.0,2.0,0.0,0.0,11.666666666666666,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+956298,0.0,16.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+956480,90.0,0.0,0.0,0.0,68.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante
+956484,15.0,0.0,0.0,0.0,28.454545454545453,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+956664,1.0,0.0,0.0,0.0,9.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+957022,0.0,21.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+957922,3.0,20.0,1.0,0.3333333333333333,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,33.33,Entrante y Saliente
+958394,22.0,0.0,0.0,0.0,16.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+958416,15.0,310.0,1.0,0.06666666666666667,28.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,6.67,Entrante y Saliente
+958418,12.0,494.0,0.0,0.0,21.4,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958430,22.0,303.0,0.0,0.0,45.44444444444444,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958432,17.0,171.0,0.0,0.0,41.63636363636363,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958434,24.0,144.0,1.0,0.041666666666666664,77.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,4.17,Entrante y Saliente
+958440,0.0,90.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958444,0.0,78.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958452,38.0,479.0,1.0,0.02631578947368421,29.4,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,2.63,Entrante y Saliente
+958454,2.0,24.0,0.0,0.0,30.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958456,10.0,876.0,0.0,0.0,44.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958458,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+958460,112.0,114.0,2.0,0.017857142857142856,350.3125,False,True,False,1,True,Ineficaz,>300 s,1,Bueno,1.79,Entrante y Saliente
+958468,9.0,528.0,0.0,0.0,53.166666666666664,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+958470,4.0,13.0,0.0,0.0,50.75,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958472,0.0,33.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958478,7.0,322.0,0.0,0.0,47.4,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958480,0.0,176.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+958640,11.0,11.0,1.0,0.09090909090909091,10.272727272727273,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,9.09,Entrante y Saliente
+958672,0.0,55.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+959118,0.0,17.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+959312,58.0,156.0,1.0,0.017241379310344827,31.071428571428573,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,1.72,Entrante y Saliente
+959596,0.0,9.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+960294,1.0,296.0,0.0,0.0,36.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+960296,2.0,201.0,0.0,0.0,63.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+960620,79.0,64.0,1.0,0.012658227848101266,87.15384615384616,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,1.27,Entrante y Saliente
+960648,33.0,79.0,0.0,0.0,72.375,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+960666,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+960670,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+960672,0.0,278.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+960674,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+960698,6.0,0.0,0.0,0.0,33.666666666666664,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+960950,0.0,19.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+961064,24.0,904.0,0.0,0.0,26.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+961552,3.0,17.0,0.0,0.0,104.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Entrante y Saliente
+961770,82.0,0.0,0.0,0.0,52.35294117647059,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+962062,22.0,0.0,0.0,0.0,25.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+962168,4.0,0.0,0.0,0.0,17.25,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+962268,45.0,106.0,0.0,0.0,56.15384615384615,False,True,False,1,True,Ineficaz,52.4-60 s,1,Bueno,0.0,Entrante y Saliente
+962658,376.0,371.0,0.0,0.0,189.6875,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+962902,244.0,458.0,0.0,0.0,133.23076923076923,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+962904,0.0,2.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+963716,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+964510,16.0,143.0,1.0,0.0625,24.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,6.25,Entrante y Saliente
+964518,2.0,0.0,0.0,0.0,42.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+964666,45.0,875.0,2.0,0.044444444444444446,60.9,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,4.44,Entrante y Saliente
+964712,9.0,12.0,0.0,0.0,41.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+964716,0.0,326.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965232,0.0,38.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965328,0.0,28.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965538,0.0,548.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965540,0.0,919.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965542,0.0,776.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965544,0.0,1277.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+965942,4.0,0.0,0.0,0.0,25.5,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+966158,3.0,34.0,0.0,0.0,15.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+966686,2.0,1.0,0.0,0.0,33.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+967204,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+967310,1.0,58.0,0.0,0.0,8.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+968150,4.0,100.0,0.0,0.0,2.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+968232,1.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+968338,16.0,259.0,0.0,0.0,19.428571428571427,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+968368,2.0,0.0,0.0,0.0,19.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+968520,10.0,0.0,0.0,0.0,5.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+969262,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+969268,0.0,5.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+969272,225.0,241.0,1.0,0.0044444444444444444,218.0,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.44,Entrante y Saliente
+969284,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+969286,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+969288,3.0,2.0,0.0,0.0,44.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+969294,84.0,14.0,0.0,0.0,177.5,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+969380,1.0,14.0,0.0,0.0,21.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+969386,0.0,55.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+969600,0.0,29.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+970240,1.0,1.0,0.0,0.0,44.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+970242,0.0,10.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+970244,2.0,2.0,0.0,0.0,81.0,False,True,True,2,True,Ineficaz,60-120 s,2,Regular,0.0,Entrante y Saliente
+970250,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+970252,1.0,7.0,0.0,0.0,25.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+970254,3.0,9.0,0.0,0.0,121.0,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Entrante y Saliente
+970258,0.0,1.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+970484,0.0,7.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+970486,0.0,6.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+971100,3.0,0.0,0.0,0.0,13.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+971102,78.0,0.0,0.0,0.0,274.0,False,True,False,1,True,Ineficaz,120-300 s,1,Bueno,0.0,Solo Entrante
+971354,6.0,0.0,0.0,0.0,42.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Solo Entrante
+972408,0.0,8.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+972410,0.0,77.0,0.0,0.0,0.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+972412,1.0,60.0,0.0,0.0,25.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+972460,2.0,68.0,0.0,0.0,4.0,False,False,False,0,False,Eficaz,<=52.4 s,0,Excelente,0.0,Entrante y Saliente
+973120,0.0,3.0,0.0,0.0,0.0,False,False,True,1,True,Ineficaz,<=52.4 s,1,Bueno,0.0,Entrante y Saliente
+973286,2.0,0.0,0.0,0.0,88.0,False,True,False,1,True,Ineficaz,60-120 s,1,Bueno,0.0,Solo Entrante

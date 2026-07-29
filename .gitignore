@@ -1,0 +1,10 @@
+# Entornos virtuales
+.venv/
+venv_telecom/
+
+# Carpetas de datos a ignorar
+Data para tableau/
+
+# Backups y temporales
+*.backup.ipynb
+.ipynb_checkpoints/
